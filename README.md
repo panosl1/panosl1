@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/panosl1"><img src="https://api.daily.dev/devcards/v2/6hmdcWrrAditxgo9NZcKs.png?type=wide&r=cu2" width="652" alt="Panos Lampropoulos's Dev Card"/></a>
+
+- 🔭 I’m currently working at @NVIDIA
+- 🌱 I’m currently learning Rust
+
+
 <!--
 **panosl1/panosl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
